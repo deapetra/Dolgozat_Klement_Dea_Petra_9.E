@@ -1,0 +1,72 @@
+body{
+    background-color: #808080;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+fieldset{
+    background-color: #add8e6;
+    width: 960px;
+    height: 2600px;
+    margin-left: 170px;
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 7px double darkblue;
+}
+
+h2{
+    color: darkblue;
+    border-bottom: 2px dotted darkblue;
+    border-top: 2px solid darkblue;
+    margin-right: 40%;
+    
+}
+
+.gep{
+    width: 200px;
+    float: right;
+    border: 5px solid darkblue;
+    margin-left: 10px;
+}
+
+.kepek{
+    width: 200px;
+    float: right;
+    border: 5px solid darkblue;
+    margin-left: 10px;
+}
+
+ul{
+    list-style-image: url("kukac.png");
+    margin-left: 65px;
+}
+
+.neu{
+    width: 160px;
+    border: 5px solid darkblue;
+    float: left;
+    margin-right: 10px;
+}
+
+.szobor{
+    width: 150px;
+    border: 5px solid darkblue;
+    float: right;
+    margin-left: 10px;
+}
+.alan{
+    float: left;
+    margin-right: 10px;
+    border: 5px solid darkblue;
+    width: 180px;
+}
+.forras{
+    font-style: italic;
+    margin-left: 250px;
+}
+a:hover{
+    color: darkblue;
+}
